@@ -1,0 +1,127 @@
+
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    font-size: medium;
+    background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10px 20px;
+}
+h3{
+    text-align: center;
+    font-size: small;
+}
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    font-size: medium;
+    background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+}
+.container{
+    width: 500px;
+    /* padding: 70px; */
+    margin: 30px auto;
+    background-color: rgba(38, 38, 72, 0.8);
+    text-align: left;
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+text area{
+    height: 20px;
+    width: 20px;
+}
+.submit{
+    width: 90%;
+    height: 20px;
+    background-color: green;
+}
+.textarea{
+    height: 100px;
+    width: 90%;
+}
+.fith{
+    width: 90%;
+    height: 20px;
+}
+.fouth{
+    width: 90%;
+    height: 20px;
+}
+.third{
+    width: 90%;
+    height: 20px;
+}
+.second{
+    width: 90%;
+    height: 20px;
+}
+.first{
+    width: 90%;
+    height: 20px;
+}
+main{
+    width: 600px;
+    height: 0px;
+
+    width: 500px;
+    /* padding: 70px; */
+    margin: 30px auto;
+    /* background-color: rgba(27, 27, 50, 0.8); */
+    text-align: center;
+    display: block;
+    padding-left: 30px;
+    opacity: 0.7;
+}
+text area{
+    height: 20px;
+    width: 20px;
+}
+.submit{
+    width: 90%;
+    height: 20px;
+    background-color: green;
+}
+.textarea{
+    height: 100px;
+    width: 90%;
+}
+.fith{
+    width: 90%;
+    height: 20px;
+}
+.fouth{
+    width: 90%;
+    height: 20px;
+}
+.third{
+    width: 90%;
+    height: 20px;
+}
+.second{
+    width: 90%;
+    height: 20px;
+}
+.first{
+    width: 90%;
+    height: 20px;
+}
+main{
+    width: 600px;
+    height: 0px;
+}
+.discribes{
+    font-style: italic;
+    font-stretch: expanded;
+}

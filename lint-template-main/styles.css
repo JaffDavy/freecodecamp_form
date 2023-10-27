@@ -13,14 +13,6 @@ body {
   background-color: #f5f5f5;
 }
 
-.header .logo {
-  font-size: 25px;
-  font-family: Sriracha, cursive;
-  color: #000;
-  text-decoration: none;
-  margin-left: 30px;
-}
-
 .nav-items {
   display: flex;
   justify-content: space-around;
